@@ -1,14 +1,4 @@
-record_id,age,gender,daily_gaming_hours,game_genre,primary_game,gaming_platform,sleep_hours,sleep_quality,sleep_disruption_frequency,academic_work_performance,grades_gpa,work_productivity_score,mood_state,mood_swing_frequency,withdrawal_symptoms,loss_of_other_interests,continued_despite_problems,eye_strain,back_neck_pain,weight_change_kg,exercise_hours_weekly,social_isolation_score,face_to_face_social_hours_weekly,monthly_game_spending_usd,years_gaming,gaming_addiction_risk_level
-GD0001,17,Male,11.1,Mobile Games,Clash of Clans,PC,3.7,Very Poor,Sometimes,Below Average,1.25,,Anxious,Never,TRUE,FALSE,TRUE,TRUE,FALSE,6.8,3.7,7,1.3,383.7,3,Severe
-GD0002,21,Male,3,MOBA,Dota 2,PC,7.2,Fair,Rarely,Good,3.75,2,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.5,2,10.7,46.64,1,Low
-GD0003,23,Male,7.6,FPS,CS:GO,Multi-platform,4.4,Fair,Often,Poor,,9,Irritable,Rarely,TRUE,TRUE,TRUE,FALSE,TRUE,1.8,7.1,5,3.2,100.81,6,Severe
-GD0004,20,Female,7.2,RPG,Skyrim,Multi-platform,5.1,Fair,Often,Poor,1.62,2,Withdrawn,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,0.2,5.2,4,9.1,51.6,7,High
-GD0005,18,Male,6.8,Battle Royale,Apex Legends,PC,3.4,Poor,Never,Average,2.44,,Angry,Daily,TRUE,FALSE,FALSE,FALSE,FALSE,0.5,6.1,4,4.5,32.57,1,Moderate
-GD0006,21,Male,2.1,Mobile Games,Clash of Clans,PC,7.5,Fair,Rarely,Good,3.81,4,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.8,1,9.6,8.63,4,Low
-GD0007,21,Male,2.7,FPS,Call of Duty,Multi-platform,7.2,Very Poor,Often,Below Average,1.82,6,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,10,2,10.1,35.25,3,Low
-GD0008,28,Female,10.3,Mobile Games,Clash of Clans,Console,5.2,Fair,Sometimes,Poor,,1,Anxious,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,2.4,5.6,6,0.2,299.28,13,Severe
-GD0009,18,Male,1.4,Mobile Games,Genshin Impact,PC,8.9,Poor,Always,Good,2.43,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.1,1,12.9,49.4,6,Low
-GD0010,18,Male,7.6,MMO,Final Fantasy XIV,Multi-platform,3.5,Insomnia,Often,Average,1.13,,Anxious,Never,TRUE,TRUE,TRUE,TRUE,FALSE,3.3,4.5,6,4.6,135.2,6,Severe
+SGD0010,18,Male,7.6,MMO,Final Fantasy XIV,Multi-platform,3.5,Insomnia,Often,Average,1.13,,Anxious,Never,TRUE,TRUE,TRUE,TRUE,FALSE,3.3,4.5,6,4.6,135.2,6,Severe
 GD0011,16,Male,1.5,FPS,CS:GO,Multi-platform,8.4,Good,Often,Good,3.04,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.1,1,11,28.23,4,Low
 GD0012,14,Male,3,Strategy,StarCraft II,PC,7.2,Good,Sometimes,Excellent,3.15,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.4,1,13.9,46.36,3,Low
 GD0013,28,Male,9.5,Mobile Games,Genshin Impact,Mobile,3.6,Very Poor,Never,Poor,,8,Withdrawn,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,2.2,5.1,5,1.6,482.71,7,High
